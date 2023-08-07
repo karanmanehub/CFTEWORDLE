@@ -1,0 +1,294 @@
+ACH (Automated Clearing House): A system used in the USA that acts as a hub to facilitate electronic transfers between bank accounts and is a type of Electronic Funds Transfer (ETF). It allows for seamless transfer of funds between accounts.
+Acquirer: Financial entities that handle and settle transactions on behalf of other merchants involved. It ensures that transactions are processed accurately and efficiently.
+AI (Artificial Intelligence): Computer systems capable of performing tasks that traditionally require human intelligence, such as reasoning, decision-making, and perception. AI enhances fraud detection and risk management within digital payments.
+AISP (Account Information Service Provider): An AISP provides third-party access to financial account information with the account holder's permission to provide faster decisions on loans. This enables faster digital payments.
+Alternative Data: Non-traditional/ novel sources of data (e.g., social media activity or satellite imagery) that can provide insights in order to improve financial decision-making. Diverse data helps to detect fraud, understand consumer behaviour and provide personalised recommendations.
+AML (Anti-Money Laundering): Describes a set of procedures and regulations that can detect and report illegal income sources in money laundering. AML prevents money laundering from damaging digital payment spaces.
+API (Application Programming Interface): A set of protocols, routines, and tools that enable software applications to communicate with one another, allowing for data sharing and service integration. APIs enable payment platforms to communicate together.
+APM (Alternative Payment Method): Payment methods other than cash or major card schemes (Visa, MasterCard etc). This includes prepaid cards, mobile payments, e-wallets etc. Alternative payments are becoming increasingly popular in digital payment spaces.
+Authorization: The process of verifying the validity of a payment card, ensuring sufficient funds available for purchase. It enables secure transactions.
+BaaS (Banking as a Service): Allows any business to embed financial services into its offering, by connecting directly with banks' systems via APIs. BaaS allows businesses to expand available digital payment options.
+Bacs (Bankers' Automated Clearing System): BACS is a UK domestic file-based payment method available in GBP only, payments take three working days to clear. It demonstrates the importance of legacy within the digital payment space.
+BIC (Bank Identifier Code): This is often referred to as a SWIFT code or SWIFT address as SWIFT owns and administers the BIC system. BIC codes facilitate international digital payments.
+Big Data: Large, complex data sets that cannot be processed using traditional methods. It allows for deeper insights into customer behaviour.
+Biometric Authentication: Using physical or behavioural characteristics, such as fingerprints or facial recognition, to authenticate user identity and grant access to financial services. It provides a convenient, secure method to verify user identity for payments.
+Blockchain: A decentralized, digital ledger that records transactions securely and transparently. This enables secure transactions without the need for intermediaries.
+BNPL (Buy Now Pay Later): A payment method offered at online point of sale, Buy Now Pay Later (BNPL) allows consumer or business customers to pay a merchant for goods or services in instalments rather than an up-front lump sum. BNPL is becoming an increasingly common form of digital payment.
+Card Issuer: A financial institution that issues payment cards to consumers. It provides a convenient and widely accepted payment method.
+CBDC (Central Bank Digital Currency): A country’s currency in digital form that is issued and backed by its central bank, allowing for more efficient, secure, and cost-effective transactions. Newly developed within digital payments, CBDC can improve payment systems and financial stability.
+Challenger Bank: A new, digital-only bank offering innovative products and services, often focussing on improving customer experience to challenge traditional banks. They offer convenient digital payment financial services.
+CI (Credit Institution): A financial institution that accepts deposits or other repayable funds from the public and provides credit or electronic money payments. In digital payments, credit institutions facilitate the electronic transfer of funds.
+Cloud Computing: The delivery of online computing services, including servers, storage, databases, software, and analytics, enabling greater scalability and cost-savings. It allows for scalable digital payment operations.
+CLS (Continuous Linked Settlement): A settlement system that mitigates risk for foreign exchange trades by providing a payment versus payment settlement service that directly links to the Real Time Gross Settlement (RTGS) systems of the currencies it settles. This helps ensure that FX transactions are settled securely and efficiently in digital payments.
+CNP (Card Not Present): These transactions occur when the payment card and cardholder are not physically present at the point of sale, usually online. These transactions can be a major source of card fraud. CNP is increasingly popular in digital payments, making it important to implement extra security.
+Cryptocurrency: A digital or virtual currency using cryptography for security and operating independently of a central authority. They offer innovative digital payment options.
+Cryptocurrency Mining: Verifying blockchain transactions by solving complex mathematical problems and earning newly minted cryptocurrency as a reward. It ensures security and transparency of Blockchain transactions.
+Cryptocurrency Payment: A payment method using cryptocurrency as the medium of exchange. This provides additional security when transferring funds.
+Cybersecurity	Protecting computer systems or networks from unauthorized access to sensitive information. This ensures that fraud or theft don’t hurt the digital payments system
+DeFi (Decentralised Finance): A financial system leveraging blockchain to facilitate transactions, enabling users to access financial services (borrowing and lending) without relying on banks or intermediaries. This provides secure and efficient transfers of funds.
+Digital Identity: A unique digital identifier that is used to verify the identity of individuals or organizations during digital transactions. This help prevents fraud by ensuring that funds reach the intended recipient.
+Digital Payments: Financial transactions processed electronically using computers or other digital devices and is typically more convenient and efficient than cash payments. Digital payments are becoming increasingly popular given this added convenience.
+Digital Wallet: A software application that allows consumers to  store their payment and password information securely in order to make online purchases. This simplifies the digital payment checkout process whilst increasing security
+DLT (Distributed Ledger Technology):A type of database that records across multiple locations, enabling decentralised transactions without the relying on a central authority. This provides transparency and security when transferring funds.
+Embedded Finance: The integration of financial services into non-financial products (including e-commerce platforms etc) to enable seamless and convenient transactions. This provides frictionless digital payment systems for users.
+EMD (The E-Money Directive): A set of regulations that exists to benefit businesses, customers, and the wider economy. It aims to enable secure e-money services and foster healthy competition between all participants. It governs the operation of e-money issuers, ensuring stable digital payment systems.
+EMV (Europay, MasterCard, and Visa): A worldwide technical standard for payment cards that provides global telecommunications between all cards and payment terminals. This ensures payment cards are compatible with online global payment terminals.
+ETF (Electronic Funds Transfer): The electronic transfer of funds initiated through digital means, such as card payments, ATM withdrawals, point-of-sale (POS), and debit transfers, without requiring the intervention of bank staff. They allow for the rapid and efficient transfer of money in digital payments.
+Financial Literacy: The knowledge necessary for making informed decisions about personal finance, this includes budgeting, investing etc. This helps users manage their finances and make informed decisions about their transactions.
+Fraud Detection: The use of advanced analytics to detect transactions that may be fraudulent, then machine learning to prevent them thereafter. This maintains security in digital payments and prevents financial loss. 
+Gamification: Using game design elements in non-game contexts to engage users to follow the desired actions, this could include saving more money or investing in diversified portfolios. This encourages users to better engage with financial products and services.
+Interchange Fee: The fee charged by a payment card network to a merchant's acquiring bank for processing a transaction. This fee is an important consideration when merchants are choosing payment processing methods.
+IoT (Internet of Things): The connection of physical devices, such as vehicles and buildings, to the Internet. This allows them to collect and exchange data. This enables new digital payment methods whilst improving security.
+KBA (Knowledge-Based Authentication): A security measure to verify user identity, this is usually through asking a “secret” question. This adds security to digital payments through multifactor authentication.
+KYC (Know Your Customer): The process of customer identity verification in digital transactions. KYC helps to prevent fraud and comply with regulations. This is important for digital payments as it ensures security.
+LVPS (Large-Value Payment System): A Real Time Gross Settlement system (RTGS) used for securely and quickly transferring large sums of money. These are settled in real-time, providing complete certainty that the payment will be made. This system provides a secure way to transfer large sums of money.
+Machine Learning: The way an AI will record its experiences in order to learn and grow from them, without being explicitly programmed to do so. This helps payment processing systems to continuously improve their security.
+MFA (Multifactor Authentication): A verification method that requires a user to provide at least two ways of confirming their identity, such as fingerprints, SMS, or email address. This reduces fraud within digital payment spaces and ensures compliance requirements are met.
+Microfinance: Providing small loans and any other financial services to people and small businesses in developing countries. This allows underserved communities to have better access to digital payments
+Mobile Payment	The use of smartphones or other mobile devices as a payment method. This improves convenience and accessibility to digital payments.
+Natural Language Processing (NLP): The manner in which computers understand and interpret human language, and subsequently how they generate human language back. This provides a natural user experience and allows customers to interact with digital payments.
+NBFI (Non-Bank Financial Institution): A financial institution that offers banking services without a full banking license. They facilitate alternative financial services such as foreign exchange, but they are unable to accept deposits. They offer banking solutions and digital payments through partnerships with licenced banks.
+Near-Field Communication (NFC): The technology that enables wireless communication between nearby devices, usually between a mobile and a payment terminal. This allows for contactless payments.
+NFT (Non-Fungible Tokens): A type of digital asset coded uniquely way to distinguish them as a unique asset, unlike fungible assets such as Euros, Bitcoin, and other assets that are identical and interchangeable. Ownership is hardcoded into the asset on the blockchain and serves as a manner of digital payments.
+Open API: A publicly available API that can be accessed by any developer, allowing for greater collaboration and innovation in the fintech space. This allows for the development of new payment solutions and better exchanges of information.
+Open Banking: A financial services model that allows third-party financial service providers to access a bank's customer data (with the customer's consent) through Application Programming Interfaces (APIs). This model enables the development of new digital payment products through competition and innovation.
+Open Source: Publicly available software that can be modified and distributed by anyone, promoting collaboration and innovation in the development of fintech solutions. This enables the development for new software solutions for digital payments.
+Payment Gateway: An e-commerce application service provider enabling merchants to securely process online transactions. These crucially enable secure digital payments.
+Payment Processor: A financial institution or technology company that processes and settles electronic payment transactions. They allow for digital payments to take place.
+Payment Terminal: A device used by merchants to accept payment cards or mobile payments. They allow merchants to accept digital payments.
+Peer-to-Peer Payment: A monetary exchange option enabling individuals to directly transfer funds to a recipient's digital wallet or bank account. This is increasingly becoming normal within the digital payments space
+Point-of-Sale (POS): The place of consumer purchase, be it through a physical retail store or online checkout service. Online checkouts are where digital payments can be made.
+Quantum Computing: A computing form utilizing quantum-mechanical phenomena, including superposition and entanglement, for conducting data operations. This has the potential to speed up digital payments and make them more secure
+Regulatory Sandbox: A controlled environment program that allows fintech enterprises to trial new products and services under regulatory supervision. This allows for the controlled testing of new digital payment products.
+Robo-advisor: A digital platform utilizing algorithms to provide automated investment guidance and portfolio management services. This allows consumers to invest money and access digital payments without traditional financial advisors.
+Robotics: The process of designing, building and then operating robots with the ability to carry out instructed tasks either independently or with assistance. This can potentially streamline digital payment processes by reducing the risk of human error.
+RTGS (Real-Time Gross Settlement): A system operated by central banks that provides immediate, final, and irrevocable settlement for large interbank payments. It reduces settlement lags and lowers credit risks in regard to digital payments.
+Stablecoin: A type of cryptocurrency designed to retain its stable value by being pegged to an asset or currency. They offer predictable value when used within digital payments.
+Tokenization: The procedure of transforming sensitive payment card information into a digital token on a blockchain network for more efficient trading, while also reducing the risk of fraud in data breaches. This makes them more appealing for transactions within digital payment spaces.
+Unbanked: Individuals without traditional banking access, including checking accounts or credit cards, for whom digital payments have become increasingly vital. This allows them to participate in the digital economy.
+Unstructured Data: Information that is not structured or formatted in any particular way, which has become increasingly important in the digital payments industry for the purposes of analysing customer behaviour and detecting fraud. This helps to identify potential risks in digital payment systems.
+Wire Transfer: An electronic funds transfer system employed to move funds between financial institutions or banks. They underpin the digital payment infrastructure, enabling the movement of money.
+Accelerator: Programmes designed to support and accelerate the growth of early-stage Fintech startups by providing mentorship, resources, and funding.
+AI (Artificial Intelligence): A technology that enables machines to perform tasks that require human-like intelligence.
+AML (Anti-Money Laundering): Regulations that require financial institutions to verify the identity of their customers.
+API (Application Programming Interface): These are software components that allow different applications to communicate and interact.
+BaaS (Banking as a Service): The implementation of banking products to non banking entities via APIs.
+B2B (Business-to-Business): Companies that offer products or services to other businesses.
+B2C (Business-to-Customer): Companies that offer products or services directly to consumers.
+BigTech:Technology giants such as Google, Amazon, or Alibaba that have entered the Fintech market.
+Blockchain:A distributed ledger technology used for secure and transparent financial transactions.
+Catalysts of the Fintech Revolution: The key factors that have driven the Fintech revolution, including the global financial crisis, regulation, technology, and changing consumer behaviour.
+Chatbot: Types of conversational agents that use natural language processing (NPL) and machine learning to interact with users in a human-like manner.
+Cloud Technologies: Computing services delivered over the internet.
+Consumer Behaviour: The actions and decisions of consumers when they are interacting with financial products and services. Consumer behaviour has been a major driver of Fintech innovation, as new companies have emerged to meet the changing needs and expectations of consumers.
+Crowdfunding: This is a strategy of raising money from a large amount of people who usually donate smaller sums via the internet.
+Cryptocurrencies :A decentralised digital currency that utilises cryptography for transaction verification and record-keeping instead of relying on a central authority.
+Cybersecurity: The practice of protecting computer systems, networks, and sensitive information from unauthorised access, use, disclosure, disruption, modification, or destruction.
+Digital Lending: The online provision of loans or credit.
+Digital Wallets: Online platforms for storing and managing digital currencies.
+Disruptive Business Models: New, innovative business models that are disruptive to traditional business models.
+Disruptive Innovation: A new technology, product, or business model that disrupts the existing market and creates a new one.
+DLT (Distributed Ledger Technology): A decentralised database managed by multiple participants, across multiple nodes.
+Ecosystems: A network of companies, individuals, and institutions that interact in the Fintech industry.
+Fintech: New technology and innovation that aim to compete with traditional financial methods in the delivery of financial services.
+Fintech Disruption: The process of disrupting the traditional financial industry with new technologies and business models.
+Fintech Players: Startups, incumbents, and BigTech that drive the overall transformation of finance due to technology.
+Freemium:A business model that offers a basic service for free but charges for premium features.
+GFC (Great Financial Crisis): The Great Financial Crisis, a global financial crisis that occurred in 2008 and led to the rise of Fintech.
+Hyper personalisation: The process of using data to personalise financial products and services to individual customers.
+Implementation Fees: Fees charged by Fintech companies for implementing their software.
+Incremental Innovation: Gradual, small-scale improvements to existing products or services.
+Incumbents: Traditional financial institutions such as banks or insurance companies.
+Innovation: Introduction of new products, services or ideas to the market.
+Innovation Frameworks: Three types of innovation frameworks that are typically at work in fintech: incremental, disruptive, and unbundling.
+IoT (Internet Of Things): A network of physical objects or "things" embedded with electronics, software, sensors, and connectivity, which enables these objects to collect and exchange data.
+Investment Platforms: Platforms that offer investment opportunities such as stocks or cryptocurrencies.
+KYC (Know Your Customer): Financial service guidelines and regulations necessitate professionals to verify a customer's identity, suitability, and associated risks when establishing a business relationship.
+Machine Learning: A subset of AI that focuses on enabling machines to learn from data without being explicitly programmed. 
+Mobile Banking Apps: Applications designed to manage finances on mobile devices.
+Open Banking: Regulation that requires banks to share their customer data with third-party providers.
+Open Finance: The process of opening up financial data to third-party developers to create new products and services.
+Orchestration: The process of integrating different systems to achieve a specific goal.
+P2P Lending (Peer-to-Peer): Peer-to-peer lending, a process that allows individuals to lend money to each other through online platforms.
+Pay per Use: A business model that charges customers for each use of a service or product.
+Payment Processing: The process of managing financial transactions.
+Platforms: Digital platforms that offer different services or products to customers.
+PSD2 (Payment Services Directive Two): European regulation that requires banks to open up their payment systems to third-party providers.
+Quantum Computing: A type of computing that uses quantum-mechanical phenomena to perform operations on data.
+Regulations: Rules and requirements set by regulatory bodies that Fintechs must comply with.
+Robo Advisor: An automated digital platform that provides algorithm-based investment advice and portfolio management services to clients, typically without the need for human intervention.
+SaaS (Software as a Service): Software as a service, is a business model that charges customers for using a software application.
+Sales and Marketing: Activities designed to promote and sell Fintech products or services.
+Sandboxes: Regulatory framework that allows Fintech companies to test their products and services in a controlled environment.
+Service-Oriented Fintechs: Fintech companies that differentiate based on a service offered.
+SWOT: Strengths, Weaknesses, Opportunities, and Threats, a strategic planning tool used to evaluate the internal and external factors affecting a company’s success.
+Technology-Driven Fintechs: Fintech companies that put technology at the heart of the solution.
+Third-Party Providers: Any individual, organisation, or entity that is not affiliated with a company and provides services to that company.
+Unbundling: Breaking down traditional financial products and services into their component parts and offering them as standalone offerings.
+Vertical and Niche Fintechs: Fintech companies operating in a vertical or niche.
+Workflow Digitisation: The process of automating business processes to improve efficiency and reduce costs.
+
+51% Attack: When a bad actor takes over a majority of nodes in the network and assumes control of the blockchain
+Altcoins: Coins that emerged after Bitcoin (alternative coins to Bitcoin)
+Anti-Money Laundering (AML): Anti-money laundering (AML) refers to laws and regulations intended to stop criminals from disguising illegally obtained funds as legitimate income.
+Asset-Referenced Tokenisation: The token created represents an existing asset stored elsewhere.
+Atomic Settlements: Transactions where the settlement is both simultaneous and instant
+Augmented Reality (AR): Technology that overlays digital information and virtual objects onto the real-world environment, enhancing the user's perception and interaction
+Axiology: How blockchain is regarded, how it is changing our behaviour, what we can value, what methods we can adopt and what processes we can change or even omit
+Bartering: The exchange (goods or services) for other goods or services without using money.
+Bearing Instruments: Instruments that belong to whoever is holding onto the instrument
+Bill of Lading: A legal document that serves as evidence of a contract of carriage and acts as a receipt of the goods, a document of title, and a contract of carriage between the shipper and the carrier
+Blockchain: A subset of DLT. It has properties that allow them to be fully decentralised, with no overarching point of authority
+Blockchain Stack: The entire set of components that allows a blockchain to execute
+Bridges: A special type of smart contract that connects blockchains to facilitate the transfer of value and information from one blockchain to another
+Capital Markets: The part of a financial system concerned with raising capital by dealing in shares, bonds, and other long-term investments.
+Carbon Markets: Systems that facilitate the trading of carbon credits or offsets, allowing entities to buy and sell units representing reductions in greenhouse gas emissions
+Central Bank Digital Currency (CBDC): A new form of central bank money accessible to the public, accepted as a means of payment, legal tender, and safe store of value by all citizens, businesses, and government agencies
+Centralised Decentralised Finance (CeDeFi): The encroachment of decentralised concepts into traditional finance
+Coin: A coin is one that is native to its own Layer 1 blockchain, such as Bitcoin, Dogecoin, Litecoin
+Cold Wallet: A digital wallet that is offline and not connected to the crypto network
+Collector DAOs: DAOs with the purpose for members to pool funds together so that the collective community can invest treasury funds in blue chip NFT art and other collectibles, allowing each member to own a share corresponding to their personal investment
+Commodity: A raw material or primary agricultural product that can be bought and sold, such as copper or coffee.
+Commodity-collaterised Stablecoin:Stablecoins whose value is associated with commodities
+Common Data Model (CDM): Any standardised data model which allows for data and information exchange between different applications and data sources
+Consortium Blockchains:Permissioned blockchain platform that allows multiple organisations to transact and share information with each other
+Covered Bonds: Bonds that are fully collateralized against a pool of assets
+Cross Border Payments:International transactions between two different entities that can take place using the same or different currencies
+Crypto-Winter: A prolonged period of pricing extreme weakness in the cryptocurrency market
+Cryptoassets: Digital assets produced cryptographically through the use of blockchain technology
+Cryptocurrency-backed Stablecoin: Stablecoins whose value is generated using cryptocurrency tokens as collateral
+Cryptographic Tokens: Cryptoassets created only by a process called minting only
+Custodial Wallet: A digital wallet that stores cryptocurrencies and tokens for the customer, using both hot and cold wallets
+Cryptography: A technique used to secure messages and transactions
+Data Sharing: Pooling of data without any exchange or blacklist, but a qualification of the data
+Debt Tokens: Tokens which represent a bond, loan or other financial liability
+Decentralisation: The transfer of control and decision-making from a centralised entity to a distributed network
+Decentralised Autonomous Organisations (DAOs): A self-governing and autonomous entity that operates on a blockchain or distributed ledger technology. They aim to provide an inclusive and trustless framework for individuals to collaborate, contribute, and govern the organisation's activities without the need for traditional hierarchical structures.
+Decentralised Identities (DIDs): Decentralised identity aiming to give individuals control over their own information by combining cryptography and blockchain technology
+Decentralised (or Distributed) Ledger Technology (DLT):A data structure that allows transactions to be processed and recorded in multiple places at the same time
+Delegated Proof of Stake (DPoS):A variation of Proof of Stake to combat the risk of power concentration by allowing participants to vote for trusted validators in a PoS system
+Derivatives: Financial contracts whose value is linked to values of an underlying asset
+Digital Trade: The electronic exchange of goods, services, and information across borders using digital technologies and platforms
+Digital Yuan / e-CNY: China's CBDC
+Directed Acyclic Graphs (DAGs): A type of DLT network that is not a blockchain. DAGs share some characteristics with blockchains but transactions are linked in a tree-like structure rather than a block
+e-Naira: Nigeria's CBDC
+Edelman Trust Barometer: A measure of the trust across 28 Countries in government, media, business, and Non-Government Organisations [NGOs]
+Electronic Health Records (EHRs): Digital versions of patients' medical records that contain their health information, medical history, diagnoses, medications, and other relevant data.
+Elliptic Curve Digital Signature Algorithm (ECDSA): A cryptographically secure digital signature algorithm used for many purposes, including many blockchains
+Environmental, Social, and Governance (ESG): A framework used to assess the sustainability and ethical impact of investments and business practices
+Epistemology: How is technology changing my thinking and what I know?
+Equity Tokens: Tokens representing shares of a company, shares of real estate or other real-world assets in which you can possess ownership
+ERC20:A technical standard by Ethereum which enables anyone to create their own tokens for any purposes
+Fiat-backed Stablecoin: Stablecoins whose value is directly pegged with a fiat currency
+Fully Qualified Domain Name (FQDN): A domain name that specifies its exact location in the tree hierarchy of the Domain Name System
+Fungibility: Fungibility is the property of a good or a commodity whose individual units are essentially interchangeable, and each of whose parts are indistinguishable from any other part
+Fungible Assets: Non-unique assets which can be replaced by a similar item
+GDPR: A Regulation in EU law on data protection and privacy in the EU and the European Economic Area
+Gossip protocols: A protocol where one node broadcasts to the whole network
+Governance: The decision-making process or the implementation of decisions
+Grant DAOs: DAOs are designed to facilitate nonprofit donations and strategically deploy capital assets throughout the ecosystem
+Hard Fork: A radical change to a network's protocol that may make previously invalid blocks and transactions valid, or vice-versa.
+Hardened Currency: The ability of a currency to hold a higher value than a competitor
+Hash: The output of a hash function, which is a mathematical algorithm that takes an input (data) and produces a fixed-size string of characters. The resulting hash value is unique to the input data and is commonly used for data integrity checks, password storage, data indexing, and cryptographic purposes.
+HealthTech: The application of technology, such as digital platforms, mobile apps, telemedicine, wearables, and artificial intelligence, to improve healthcare.
+Hot Wallet: A digital wallet that is always connected to the internet and the crypto wallet
+Hybrid Blockchains: Permissioned blockchains used in a private or consortium setting that may have elements of both public and private blockchain technology
+Hybrid Finance (HyFi): A co-created leadership where traditional finance (TradFi) meets digital finance
+Illiquid Assets: Assets that are not easily tradeable or transferable and can be either physical or intangible
+Immutability: The inability to alter or delete data once it is added to the blockchain
+Insurance: The pooling and mutualisation of risks from multiple sources together to reduce financial uncertainty and make accidental loss more manageable
+Intangible Assets: Assets that cannot be seen in real life
+Interoperability: The ability to exchange of data between different blockchain networks
+Intersectionality: The character of institutional discourse in the markets in the wake of major TradFi failures
+IP Address: A unique string of characters that identifies each computer using the Internet Protocol to communicate over a network.
+Know-Your-Customer (KYC): The mandatory process of identifying and verifying the client's identity when opening an account and periodically over time
+Layer 1 solutions: The original blockchains
+Layer 2 solutions: Solutions that carry out processing transactions in a separate software layer that does not affect the main blockchain
+Learn-to-Earn (L2E): A model that encourages learning by providing incentives. Users earn tokens by accomplishing tasks like watching videos or completing assessments. This can be viewed as an educational investment, where the platform teaches users with the goal of spreading knowledge and engaging them in the community
+Liquidity: The ability to convert assets to cash or acquire cash easily
+Markets in Digital Assets Regulation (MiCA):A regulation in EU law intended to help streamline distributed ledger technology (DLT) and virtual asset regulation in the European Union (EU) whilst protecting users and investors.
+mBridge:A joint CBDC project between Hong Kong Monetary Authority (HKMA), the Bank of Thailand (BoT), the Central Bank of the United Arab Emirates (CBUAE), the PBOC and BIS
+Metaverse:The concept of a highly immersive virtual world where users can interact with each other in real-time
+Methodology:Analysis of the strategy and justification for a solution and project development and deployment
+Mining:The process of validating new Bitcoin transactions and maintaining a record of previous ones
+Money Market Products:Securities that are usually extremely liquid or with short-term maturities
+Multi-Party Computation (MPC):A keyless system that replaces private keys with individual key shares separately generated
+Native Tokenisation:Tokenisation where the token itself is the asset e.g., cryptocurrencies.
+Native Tokens:Tokens which build the foundation of blockchain-based applications, also called foundational native coins
+Non-collaterised / Algorithmic Stablecoin:Stablecoins whose value is calculated based on a smart contract algorithm
+Non-Fungible Assets:Unique assets that cannot be substituted for and divided up into fractions
+Non-Fungible Tokens:NFTs (non-fungible tokens) are unique cryptographic tokens that exist on a blockchain and cannot be replicated. These are digital certificates that can represent commodities and assets like real estate, art, and collectibles.
+On-chain Solutions: Solutions which involve changing the software of the blockchain itself
+Ontology: What is technology, its primary features, the architecture, and how it works
+OpenVASP: An open Travel Rule messaging protocol that introduces the Virtual Assets Account Number (VAAN)
+Oracles: A special type of smart contract that uses an off-chain application to take data from the outside world and put it into the blockchain in a way that other smart contracts can understand
+Parametric Insurance: Insurance policies where the payout is triggered when an event occurs, rather than based on the amount of loss the policy holder incurred
+Parental hash: Hash value obtained by applying a hash function to a set of child nodes. In these structures, each child node typically contains its own hash value, and the parental hash is computed by hashing the concatenation or combination of these child node hashes.
+Pareto Principle: Only 20% of the solution’s capability, impact and opportunity is occurring from 80% of activity in the industry
+Participate-to-Earn: A model where meeting a specific token holding requirement within a network or Web3 ecosystem grants eligibility to join its DAO. This approach can also be perceived as a means to cultivate a robust and engaged community
+Payment channels: Solutions that allow off-chain transactions that are eventually reported back to the Layer 1 blockchain
+Phygital: The convergence between physical and digital
+Play-to-Learn (P2E): A model that incentivises individuals who participate in online games and fulfil specific tasks or goals. Players are rewarded with game tokens, which can offer them unique advantages within the video game ecosystem
+Primary Market: The initial market of the launch of a financial instrument
+Privacy: Implies the ability to hide certain information from certain people, while disclosing it when it is necessary
+Private Distributed Ledger: A distributed ledger which requires permissions to access
+Proof of Authority (PoA): A consensus mechanism where nodes stake their reputation rather than collateral
+Proof of Stake (PoS): A consensus mechanism requiring participants to stake their ownership of the network’s native tokens
+Proof of Work (PoW): A consensus mechanism used by Bitcoin, which involves solving computational puzzles to validate transactions.
+Protocol DAOs: Organisations designed to govern a decentralised protocol such as a borrow-lending application
+Public Blockchains: A blockchain where anyone can join
+Regenerative Finance (ReFi): The regenerative finance movement forming at the intersection of the third evolution of the internet (Web3)
+Registered Instruments: Instruments that belong to a registered owner
+RegTech: The use of technologies to enhance the supervised entities compliance processes and match regulated entities’ data to information taxonomies relevant to regulators’ oversight
+Retail CBDC: CBDCs that enables individuals and businesses to directly own and utilise digital currency similar to physical cash, serving as a novel means for managing and transacting digital money
+Rollups: Layer 2 solutions that bundles up transaction data and transfers it off the main chain
+Secondary Market: A secondary market is a market where investors purchase securities or assets from other investors, rather than from the issuing companies themselves
+Secrecy: The information is known only to you
+Secure Custodial Wallets: Custodial wallets with multi-signature steps to prevent hacking; they need multiple keys to access data
+Securitisation: The process of pooling assets together and issuing securities backed by these assets to investors. It is always on a blockchain
+Security Tokens: Tokens that represent financial assets like debt, bonds or equity
+Segregated Witness: A protocol allowing transaction data to be split in two and processed differently, allowing more transactions fit into each block
+Self-Sovereign Identity: An authentication system where the user holds information about themselves and is able to prove who they are without giving away any more than is necessary
+Sharding: Splitting the network into multiple separate pieces which keep their own records
+Sidechains: Separate blockchains with their own consensus mechanism but are pegged to the Layer 1 chain
+Smart Cities: Urban areas that utilise technology and data to improve efficiency, sustainability, and quality of life for residents. Smart cities integrate various systems and infrastructure, including transportation, energy, communication, and governance, to optimise operations and enhance services.
+Smart Contracts: A computer program that executes code to perform specific actions in response to certain inputs
+Smart Legal Contracts:Legal contracts which are readable by both humans and computers
+Society 5.0:Super Smart Society with smart digital money and cryptoassets
+Soulbound Tokens: A type of nonfungible token that is non-transferrable and could potentially be used as a form of decentralised identity
+Stablecoins: Cryptocurrencies that peg their value to an external reference such as fiat currencies
+Staking: Participating in transaction validation on a proof-of-stake (PoS) blockchain
+State channels: Channels that allow the execution of smart contracts off-chain for smart-contract enabled blockchains such as Ethereum
+Structured Products: Financial instruments, where their value is linked to an underlying asset, product, or index
+SupTech: The use of similar tools as those applied by RegTech but directed toward the technological empowerment of regulators and market supervisors
+Sustainability-Linked Bonds: Bonds in which financial and structural characteristics are based upon whether issuers achieved their sustainability or ESG metric targets
+Sustainable Development Goals (SDGs): A set of 17 goals adopted by the United Nations in 2015 as a universal call to action to protect the planet and ensure a better future for all.
+Sybil Attack: A technique where someone creates multiple accounts without other participants realising they all belong to the same person
+Telemedicine: The practice of providing remote medical care, diagnosis, and treatment through the use of telecommunications technology, such as video conferencing and mobile apps.
+The "HODLers": Long-term investors who strongly believe in cryptocurrency
+The Beginners: New investors to crypto
+The Traders: Investors who seek to profit from buying and selling
+Tokenisation: The process of creation of a digital representation of an asset, including the rights associated with the asset
+Tokenised Economy: An economy in which assets, rights, certificates and even people, can be represented as tokens
+United for Smart Sustainable Cities (U4SSC): An initiative by the United Nations that aims to drive the adoption of information and communication technologies (ICTs) for smart and sustainable cities. It also includes the Blockchain4Cities working group
+Unsecured Bonds: Bonds issued without any security to back them
+Utility Tokens: Tokens created on the blockchain representing the ownership of assets or service
+Verified Legal Entity Identifiers (vLEIs): Unique codes assigned to legal entities participating in financial transactions by the Global Legal Entity Identifier Foundation (GLEIF)
+Virtual Asset Service Provider (VASP): A business that exchanges, transfers, safekeeps or provides services related to virtual assets
+Virtual Assets Account Number (VAAN): An account number similar to proven payment routing systems (such as the IBAN) but without compromising the decentralised approach
+Virtual Reality (VR): Technology that creates a simulated environment, usually through the use of headsets, providing an immersive and interactive experience
+Web 1.0:A global digital library that organises every single piece of accessible digital information into one big database
+Web 2.0:The internet, focused on connecting and creating information, with centralised benefits
+Web 3.0:The internet, focused on connecting and creating information, with centralised benefits
+Wholesale CBDC: CBDCs reserved for financial institutions for interbank payments and financial settlements
+Yield Farming or Liquidity Mining: Staking or locking up cryptocurrencies in return for rewards
+Zero-knowledge Proof (ZKP): Zero-knowledge proofs allow us to prove a fact is true without handing over all our information.
+
+
+
+
+
+
+
+
+
