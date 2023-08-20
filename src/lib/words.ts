@@ -28,7 +28,7 @@ export const isWordInWordList = (word: string) => {
 
 export const isWinningWord = (word: string) => {
   //TODO: Remove below line, just for testing
-  console.log('WORD::', solution);
+  console.log('WORD::', solution)
   return solution === word
 }
 
@@ -130,6 +130,8 @@ export const getWordOfDay = (index: number) => {
 
 export const getSolution = (gameDate: Date) => {
   const nextGameDate = getNextGameDate(gameDate)
+  console.log('nextGameDate::', nextGameDate)
+  console.log('nextGameDate Val::', nextGameDate.valueOf())
   const index = getIndex(gameDate)
   const wordOfTheDay = getWordOfDay(index)
   return {

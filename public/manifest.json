@@ -1,6 +1,6 @@
 {
-  "short_name": "Wordle by CFT",
-  "name": "Wordle by CFT",
+  "short_name": "Wordle by CFTE",
+  "name": "Wordle by CFTE",
   "icons": [
     {
       "src": "favicon.ico",
@@ -8,25 +8,25 @@
       "type": "image/x-icon"
     },
     {
-      "src": "logo192.png",
+      "src": "cfteLogo.png",
       "type": "image/png",
       "sizes": "192x192",
       "purpose": "any"
     },
     {
-      "src": "logo512.png",
+      "src": "cfteLogo.png",
       "type": "image/png",
       "sizes": "512x512",
       "purpose": "any"
     },
     {
-      "src": "logo192.png",
+      "src": "cfteLogo.png",
       "type": "image/png",
       "sizes": "192x192",
       "purpose": "maskable"
     },
     {
-      "src": "logo512.png",
+      "src": "cfteLogo.png",
       "type": "image/png",
       "sizes": "512x512",
       "purpose": "maskable"

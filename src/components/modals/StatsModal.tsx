@@ -8,8 +8,7 @@ import {
   ENABLE_MIGRATE_STATS,
 } from '../../constants/settings'
 import {
-  ARCHIVE_GAMEDATE_TEXT,
-  GUESS_DISTRIBUTION_TEXT,
+  ARCHIVE_GAMEDATE_TEXT, // GUESS_DISTRIBUTION_TEXT,
   NEW_WORD_TEXT,
   SHARE_TEXT,
   STATISTICS_TITLE,
@@ -17,10 +16,10 @@ import {
 import { GameStats } from '../../lib/localStorage'
 import { shareStatus } from '../../lib/share'
 import { solutionGameDate, tomorrow } from '../../lib/words'
-import { Histogram } from '../stats/Histogram'
+// import { Histogram } from '../stats/Histogram'
 import { MigrationIntro } from '../stats/MigrationIntro'
+import { RewardsBar, randomNoFromRewardsArr } from '../stats/RewardsBar'
 import { StatBar } from '../stats/StatBar'
-import { RewardsBar } from '../stats/RewardsBar'
 import { BaseModal } from './BaseModal'
 
 type Props = {
@@ -79,8 +78,9 @@ export const StatsModal = ({
       handleClose={handleClose}
     >
       <StatBar gameStats={gameStats} />
-      
-      <RewardsBar/>
+
+      <RewardsBar />
+      {/* <RewardsBar randomNoFromRewardsArr={randomNoFromRewardsArr} /> */}
 
       {/* <h4 className="text-lg font-medium leading-6 text-gray-900 dark:text-gray-100">
         {GUESS_DISTRIBUTION_TEXT}
@@ -131,6 +131,7 @@ export const StatsModal = ({
                   isHardMode,
                   isDarkMode,
                   isHighContrastMode,
+                  randomNoFromRewardsArr,
                   handleShareToClipboard,
                   handleShareFailure
                 )

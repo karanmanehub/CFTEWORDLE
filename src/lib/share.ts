@@ -1,10 +1,10 @@
 import { UAParser } from 'ua-parser-js'
 
+import { REWARD_LIST } from '../constants/rewardsList'
 import { MAX_CHALLENGES } from '../constants/settings'
 import { GAME_TITLE } from '../constants/strings'
 import { getGuessStatuses } from './statuses'
 import { solutionIndex, unicodeSplit } from './words'
-import { REWARD_LIST } from '../constants/rewardsList'
 
 const webShareApiDeviceTypes: string[] = ['mobile', 'smarttv', 'wearable']
 const parser = new UAParser()
@@ -18,6 +18,7 @@ export const shareStatus = (
   isHardMode: boolean,
   isDarkMode: boolean,
   isHighContrastMode: boolean,
+  randomNoFromRewardsArr: number,
   handleShareToClipboard: () => void,
   handleShareFailure: () => void
 ) => {
@@ -30,7 +31,7 @@ export const shareStatus = (
       guesses,
       getEmojiTiles(isDarkMode, isHighContrastMode)
     ) +
-    `\n\n${REWARD_LIST[0].value} : ${REWARD_LIST[0].def}`
+    `\n\n${REWARD_LIST[randomNoFromRewardsArr].value} : ${REWARD_LIST[randomNoFromRewardsArr].def}`
 
   const shareData = { text: textToShare }
 
