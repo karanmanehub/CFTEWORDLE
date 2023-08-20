@@ -34,5 +34,10 @@ export const REWARD_LIST = [
     value: 'Application Programming Interface',
     def: 'A set of protocols, routines, and tools that enable software applications to communicate with one another, allowing for data sharing and service integration. APIs enable payment platforms to communicate together.',
   },
+  {
+    key: '',
+    value: 'APM (Alternative Payment Method)',
+    def: 'Payment methods other than cash or major card schemes (Visa, MasterCard etc). This includes prepaid cards, mobile payments, e-wallets etc. Alternative payments are becoming increasingly popular in digital payment spaces.',
+  },
   //TODO: Add further more list from Wordle Definitions.txt file
 ]
