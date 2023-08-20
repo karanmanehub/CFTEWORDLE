@@ -25,10 +25,12 @@ export const Navbar = ({
     <div className="navbar">
       <div className="navbar-content px-5 short:h-auto">
         <div className="flex">
-          <InformationCircleIcon
+          {/* <InformationCircleIcon
             className="h-6 w-6 cursor-pointer dark:stroke-white"
             onClick={() => setIsInfoModalOpen(true)}
-          />
+          /> */}
+          <img src="cfteLogo.png" className="h-8 w-8" alt="" />
+
           {ENABLE_ARCHIVED_GAMES && (
             <CalendarIcon
               className="ml-3 h-6 w-6 cursor-pointer dark:stroke-white"
@@ -36,7 +38,9 @@ export const Navbar = ({
             />
           )}
         </div>
-        <p className="text-xl font-bold dark:text-white">{GAME_TITLE}</p>
+        <p className="text-xl font-bold dark:text-white">
+          {GAME_TITLE} | FUN LEARNING
+        </p>
         <div className="right-icons">
           <ChartBarIcon
             className="mr-3 h-6 w-6 cursor-pointer dark:stroke-white"

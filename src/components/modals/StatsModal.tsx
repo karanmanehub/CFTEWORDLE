@@ -77,6 +77,8 @@ export const StatsModal = ({
       isOpen={isOpen}
       handleClose={handleClose}
     >
+      <img src="cfteLogo.png" style={{ width: `15%`, marginTop: `-10%` }} />
+
       <StatBar gameStats={gameStats} />
 
       <RewardsBar />
